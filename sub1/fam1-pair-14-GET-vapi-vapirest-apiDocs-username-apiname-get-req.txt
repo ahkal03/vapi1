@@ -1,0 +1,6 @@
+GROUP-NAME:/vapi/vapirest/apiDocs/{username}/{apiname}/get
+PAIR-NAME:pair-14 GET /vapi/vapirest/apiDocs/{username}/{apiname}/get
+GET /vapi/vapirest/apiDocs/{username}/{apiname}/get 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: c3p0r2d2h2g2wd408ebb9f7303ed294434207ef8
+
