@@ -1,0 +1,14 @@
+GROUP-NAME:/vapi/vapirest/feedback
+PAIR-NAME:pair-15 POST /vapi/vapirest/feedback
+POST /vapi/vapirest/feedback 
+X-VAPI-AuthAuthority: GitHub
+X-VAPI-AccessToken: c3p0r2d2h2g2wd408ebb9f7303ed294434207ef8
+Content-Type: application/json
+
+{
+  "username": "dilbert",
+  "grade": "3",
+  "message": "My feedback",
+  "checked": [false,false,false,false,false,false,false,false,false,false,false],
+  "email": "Email Address"
+}
